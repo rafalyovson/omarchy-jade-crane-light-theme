@@ -35,6 +35,10 @@ Full ANSI palette in [`colors.toml`](colors.toml). Icons are `Yaru-sage`.
 Cycle with `Super + Ctrl + W`. Art notes and license details are in
 [CREDITS.md](CREDITS.md).
 
+## Unlock
+
+Ships `unlock.png` (cropped from the wallpaper) for **Appearance → Unlock**.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
