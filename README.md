@@ -49,7 +49,7 @@ Cycle with `Super + Ctrl + W`.
 When you switch to the theme or to `01-jade-crane.webp`, a 5.6-second intro
 (`backgrounds/intros/01-jade-crane.mp4`) plays: the mist lifts off the
 mountains and the picture sharpens into the wallpaper. To turn intros off,
-run `touch ~/.local/state/omarchy/toggles/background-intros-off`.
+run `omarchy theme bg intro disable`.
 
 Art notes and license details are in
 [CREDITS.md](CREDITS.md).
