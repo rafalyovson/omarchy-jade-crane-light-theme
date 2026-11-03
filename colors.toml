@@ -1,0 +1,33 @@
+# Jade Crane — celadon mist, carved jade, gold leaf
+mode = "light"
+
+accent = "#2f7a56"
+selection = "#c5d6c9"
+selection_foreground = "#1e3a2f"
+muted = "#556b60"
+
+background = "#f0efe6"
+dark_background = "#e3e2d6"
+darker_background = "#d2d1c4"
+lighter_background = "#e8ebe3"
+
+foreground = "#1e3a2f"
+dark_foreground = "#556b60"
+light_foreground = "#2d4a3c"
+bright_foreground = "#142820"
+
+red = "#c43a30"
+yellow = "#7a5f24"
+orange = "#9a6f2e"
+green = "#3d8f68"
+cyan = "#4a9088"
+blue = "#3f6d7c"
+magenta = "#7a5c6a"
+brown = "#6e5520"
+
+bright_red = "#e05a4f"
+bright_yellow = "#9a7830"
+bright_green = "#66b08c"
+bright_cyan = "#6eb0a6"
+bright_blue = "#5a8a9a"
+bright_magenta = "#9a7888"
