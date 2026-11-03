@@ -35,10 +35,6 @@ Full ANSI palette in [`colors.toml`](colors.toml). Icons are `Yaru-sage`.
 Cycle with `Super + Ctrl + W`. Art notes and license details are in
 [CREDITS.md](CREDITS.md).
 
-## Unlock
-
-This theme ships `unlock.png` for **Appearance → Unlock** (Plymouth boot mark).
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
