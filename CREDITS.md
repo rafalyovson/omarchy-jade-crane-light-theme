@@ -11,13 +11,15 @@ the same MIT license as the palette and packaging files. The 1672×941 source
 was upscaled 4× with [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 (`realesrgan-x4plus`) to 6688×3764, the resolution of Omarchy's stock
 wallpapers. `02-crane-flight.webp` and `unlock.png` are crops of that upscale.
+The intro `backgrounds/intros/01-jade-crane.mp4` is rendered from the same
+upscale with ffmpeg (blur, mist reveal and a slow settle, no new art).
 `omarchy.webp` recolors Omarchy's logo wallpaper to this palette. If you fork
 the theme and replace the wallpaper, update this file.
 
 ## Palette
 
 Colors were sampled from the wallpaper (jade greens `#469e72`–`#2f7a56`, gold
-`#b8954f` / bronze `#806200`, crane vermilion `#c43a30`, parchment
+`#b8954f` / bronze `#765a00`, crane vermilion `#c43a30`, parchment
 `#f0efe6`) and tuned to WCAG AA contrast on the parchment background.
 
 ## Icons

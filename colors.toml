@@ -2,7 +2,9 @@
 mode = "light"
 
 accent = "#2f7a56"
-muted = "#556b60"
+# muted is both faint text (placeholders, line numbers) and a button fill
+# under foreground text, so it sits midway: 3.0:1 each way.
+muted = "#7a8e83"
 
 # selection is the soft tint (btop rows, sidebars); selection_background is
 # the active-item fill (gum Yes/No buttons, menus, terminal selection).
@@ -20,20 +22,20 @@ dark_foreground = "#556b60"
 light_foreground = "#2d4a3c"
 bright_foreground = "#142820"
 
-# Normal ANSI colors are all >= 4.5:1 on background (WCAG AA text).
-red = "#c43a30"
-yellow = "#806200"
-orange = "#a35214"
-green = "#34784a"
-cyan = "#25756f"
-blue = "#3f6d8c"
-magenta = "#8a4f72"
+# Every ANSI color, normal and bright, is >= 4.5:1 on background (WCAG AA
+# text); editors color code with the brights, so they must be readable too.
+red = "#b8372d"
+yellow = "#765a00"
+orange = "#944a12"
+green = "#2d6941"
+cyan = "#216863"
+blue = "#39627e"
+magenta = "#844c6d"
 brown = "#7a4e30"
 
-# Bright variants are >= 3.5:1 (WCAG AA for bold/large text).
-bright_red = "#d24c40"
-bright_yellow = "#937214"
-bright_green = "#3f8c58"
-bright_cyan = "#2f8882"
-bright_blue = "#4f7f9e"
-bright_magenta = "#9c6084"
+bright_red = "#ba4339"
+bright_yellow = "#856712"
+bright_green = "#36784c"
+bright_cyan = "#297671"
+bright_blue = "#46708b"
+bright_magenta = "#91597b"
