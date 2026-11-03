@@ -1,15 +1,16 @@
-# Omarchy Jade Crane Theme
+# Omarchy Jade Crane Light Theme
 
 Celadon mist, carved jade, and gold leaf — a light [Omarchy](https://omarchy.org)
 theme drawn from a Guofeng landscape of jade mountains, red-crowned cranes, and
-lucky clouds.
+lucky clouds. Its night-time twin is
+[Jade Crane Dark](https://github.com/rafalyovson/omarchy-jade-crane-dark-theme).
 
-![Jade Crane preview](preview.png)
+![Jade Crane Light preview](preview.png)
 
 ## Install
 
 ```bash
-omarchy theme install https://github.com/rafalyovson/omarchy-jade-crane-theme
+omarchy theme install https://github.com/rafalyovson/omarchy-jade-crane-light-theme
 ```
 
 Or via **Install → Style → Theme** and paste that URL.
@@ -62,7 +63,7 @@ the parchment background on the disk-unlock and login screens. Pick it under
 **Style → Unlock**, or run:
 
 ```bash
-omarchy plymouth set by theme jade-crane
+omarchy plymouth set by theme jade-crane-light
 ```
 
 ## License
